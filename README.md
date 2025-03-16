@@ -32,6 +32,7 @@ Say we want this to be the Cheburek, we'll change it to this:
 ```
 
 Do this for all of the following models until you see the line <models> again, you'll know it is the bottom when you see this:   <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+EACH GROUP WILL HAVE THIS LINE SO BE CAREFUL THAT YOU AREN'T REPLACING THE WRONG GROUPS.
                                                                                                                                </Item> 
 This means you are done with that section. 
 
