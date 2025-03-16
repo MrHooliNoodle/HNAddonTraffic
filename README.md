@@ -44,7 +44,7 @@ Do this for all groups with whatever vehicles you'd like, except for <Name>VEH_Y
 
 If something doesn't work, simply remove the resource to return the traffic models to default.
 
-# This is very simple and I will not provide much support for this
+# This is very simple and I will not provide much support for this.
 
 
 
