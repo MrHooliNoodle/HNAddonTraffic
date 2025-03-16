@@ -4,7 +4,7 @@ THIS IS A FREE AND OPEN SOURCE, IF YOU PAID FOR THIS, YOU WERE SCAMMED.
 
 # How do I edit this file?
 To change a spawn, you need to change the name of the item in popgroups.ymt, and you will need OpenIV to view the code and edit it,
-The fastest way to do this is to add the popgroups.ymt anywhere easily accessible in your mods folder, turn on edit mode in OpenIV, Right-click popgroups.ymt and select edit,
+The fastest way to do this is to add the popgroups.ymt anywhere easily accessible in your GTA 5 mods folder, turn on edit mode in OpenIV, Right-click popgroups.ymt and select edit,
 Copy the code into Visual Studio Code or whatever you use for easier browsing.
 
 # What should I edit?
