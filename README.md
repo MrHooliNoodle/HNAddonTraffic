@@ -15,7 +15,7 @@ We will start with low end cars.
 
 Search for <Name>VEH_POOR</Name>
 
-Under <models> you will see each car, this is the asea 
+Under <models> you will see each car, this is the Asea.
 ```
 <Item>
           <Name>asea</Name>
@@ -32,9 +32,11 @@ Say we want this to be the Cheburek, we'll change it to this:
 ```
 
 Do this for all of the following models until you see the line <models> again, you'll know it is the bottom when you see this:   <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+This means you are done with that section. 
+
 EACH GROUP WILL HAVE THIS LINE SO BE CAREFUL THAT YOU AREN'T REPLACING THE WRONG GROUPS.
                                                                                                                                </Item> 
-This means you are done with that section. 
+
 
 You will notice after this, there is an identical line, but the title has MP in it. (<Name>VEH_POOR_MP</Name>) for example.
 
