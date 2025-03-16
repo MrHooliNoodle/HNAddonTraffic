@@ -15,7 +15,7 @@ We will start with low end cars.
 
 Search for <Name>VEH_POOR</Name>
 
-Under <models> you will see each car, this is the Asea.
+Under "models" you will see each car in that group. This is the Asea.
 ```
 <Item>
           <Name>asea</Name>
@@ -31,7 +31,7 @@ Say we want this to be the Cheburek, we'll change it to this:
         </Item>
 ```
 
-Do this for all of the following models until you see the line <models> again, you'll know it is the bottom when you see this:   <flags>POPGROUP_SCENARIO POPGROUP_AMBIENT</flags>
+Do this for all of the following models until you see the line "models" again, you'll know it is the bottom when you see this:   <flags>"POPGROUP_SCENARIO POPGROUP_AMBIENT"</flags>
 This means you are done with that section. 
 
 EACH GROUP WILL HAVE THIS LINE SO BE CAREFUL THAT YOU AREN'T REPLACING THE WRONG GROUPS.
@@ -40,7 +40,7 @@ EACH GROUP WILL HAVE THIS LINE SO BE CAREFUL THAT YOU AREN'T REPLACING THE WRONG
 
 You will notice after this, there is an identical line, but the title has MP in it. (<Name>VEH_POOR_MP</Name>) for example.
 
-Simply copy the above lines that you just edited, from the first <models> under the groupname (in this example, it is <Name>VEH_POOR</Name>) all the way down to <models> just before the <flags> mentioned in the line above.
+Simply copy the above lines that you just edited, from the first "models" under the groupname (in this example, it is <Name>"VEH_POOR"</Name>) all the way down to "models" just before the POPGROUP_SCENARIO mentioned in the line above.
 
 Do this for all groups with whatever vehicles you'd like, except for <Name>VEH_YANKTON</Name> and <Name>VEH_YANKTON_MP</Name>, unless you use north yankton and want traffic there i guess? 
 
