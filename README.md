@@ -1,4 +1,4 @@
-# hn_addontraffic
+# HNAddonTraffic
 This is a simple resource where you can edit the NPCs and Vehicle traffic models for FiveM with OpenIV.
 THIS IS A FREE AND OPEN SOURCE, IF YOU PAID FOR THIS, YOU WERE SCAMMED.
 
